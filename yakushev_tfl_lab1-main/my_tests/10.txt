@@ -1,0 +1,2 @@
+variables = x, y, z, u, v, w
+g(x) = g(g(x))

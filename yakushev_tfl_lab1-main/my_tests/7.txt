@@ -1,0 +1,3 @@
+variables = x, y, z, u, v, w
+f(x) = g(x)
+g(x) = f(x)

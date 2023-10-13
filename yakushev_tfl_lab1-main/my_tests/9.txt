@@ -1,0 +1,2 @@
+variables = x, y, z, u, v, w
+f(x,y) = f(y,x)
